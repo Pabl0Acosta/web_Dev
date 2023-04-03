@@ -1,0 +1,22 @@
+.box{
+ display: flex;
+ justify-content: space-around;
+}
+
+.kings {
+background-color: goldenrod;
+width: 32%;
+border-radius: 20px;
+}
+
+.names {
+ text-align: center;
+ font-size: 40px;
+}
+
+img{
+   width:400px;
+}
+.caja{
+    user-select: none;
+}
